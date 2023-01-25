@@ -1,4 +1,5 @@
-##Stock Sentiment Analysis using News Headlines
+#Stock Sentiment Analysis using News Headlines
+
 This project uses news headlines from the year 2000 to 2014 to perform sentiment analysis on stock prices. The dataset used for this project is in the form of a CSV file and contains 25 top news headlines for each day. The goal of this project is to use these headlines to predict whether the stock market will go up or down.
 
 Getting Started
